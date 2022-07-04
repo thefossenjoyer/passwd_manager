@@ -1,0 +1,8 @@
+%{
+  "cloak": {:hex, :cloak, "1.1.2", "7e0006c2b0b98d976d4f559080fabefd81f0e0a50a3c4b621f85ceeb563e80bb", [:mix], [{:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: true]}], "hexpm", "940d5ac4fcd51b252930fd112e319ea5ae6ab540b722f3ca60a85666759b9585"},
+  "ex_crypto": {:hex, :ex_crypto, "0.10.0", "af600a89b784b36613a989da6e998c1b200ff1214c3cfbaf8deca4aa2f0a1739", [:mix], [{:poison, ">= 2.0.0", [hex: :poison, repo: "hexpm", optional: false]}], "hexpm", "ccc7472cfe8a0f4565f97dce7e9280119bf15a5ea51c6535e5b65f00660cde1c"},
+  "nimble_options": {:hex, :nimble_options, "0.3.7", "1e52dd7673d36138b1a5dede183b5d86dff175dc46d104a8e98e396b85b04670", [:mix], [], "hexpm", "2086907e6665c6b6579be54ef5001928df5231f355f71ed258f80a55e9f63633"},
+  "plug_crypto": {:hex, :plug_crypto, "1.2.2", "05654514ac717ff3a1843204b424477d9e60c143406aa94daf2274fdd280794d", [:mix], [], "hexpm", "87631c7ad914a5a445f0a3809f99b079113ae4ed4b867348dd9eec288cecb6db"},
+  "poison": {:hex, :poison, "5.0.0", "d2b54589ab4157bbb82ec2050757779bfed724463a544b6e20d79855a9e43b24", [:mix], [{:decimal, "~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "11dc6117c501b80c62a7594f941d043982a1bd05a1184280c0d9166eb4d8d3fc"},
+  "prompt": {:hex, :prompt, "0.8.0", "6f2f62847ed099e2fcfe025ca7b586d7959cbc294e5edb8e9a94202c0d31d2e4", [:mix], [{:nimble_options, "~> 0.3.0", [hex: :nimble_options, repo: "hexpm", optional: false]}], "hexpm", "a615613f46e2b26651aa029b4bb4a54f5c50e37bc019250626ac49154395bcc7"},
+}
