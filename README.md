@@ -1,6 +1,6 @@
 # PasswdManager
 
-Password manager written in Elixir.<br>
+Password manager written in Elixir. ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) <br>
 
 ## How to use it?
 `git clone` and `cd` into it. Run `iex -S mix`<br>
