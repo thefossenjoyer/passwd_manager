@@ -13,7 +13,7 @@ defmodule PasswdManager do
   def register do
     username = IO.gets("Enter the name of a programme: ") |> String.trim
     password = IO.gets("Enter your password: ") |> String.trim
-    binary = :erlang.term_to_binary(cipher_text)
+    binary = :erlang.term_to_binary(password)
     
     case File.exists?("./#{username}") do
       true -> 
